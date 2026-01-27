@@ -1,0 +1,18 @@
+# Ignore subdirectories that are git repositories
+cdac-project-internal/
+GTalk_Frontend-main/
+
+# Ignore common files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
